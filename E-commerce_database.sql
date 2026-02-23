@@ -1,3 +1,7 @@
+--database creation
+create database Commercedb;
+--USING THE DATABASE
+use Commercedb;
 -- Database Schema for E-commerce
 
 CREATE TABLE customers (
